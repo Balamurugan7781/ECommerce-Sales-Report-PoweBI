@@ -1,5 +1,6 @@
-📊 E-Commerce Store Sales Report Project
-📝 Overview
+#📊 E-Commerce Store Sales Report Project
+
+#📝 Overview
 This project presents a comprehensive Power BI dashboard designed to analyse and monitor the sales performance of an online retail store. The report provides detailed insights into revenue trends, customer behaviour, product performance, and regional sales distribution.
 
 🚀 Key Features

@@ -1,9 +1,9 @@
-#📊 E-Commerce Store Sales Report Project
+# 📊 E-Commerce Store Sales Report Project
 
-#📝 Overview
+# 📝 Overview
 This project presents a comprehensive Power BI dashboard designed to analyse and monitor the sales performance of an online retail store. The report provides detailed insights into revenue trends, customer behaviour, product performance, and regional sales distribution.
 
-🚀 Key Features
+# 🚀 Key Features
 Interactive dashboards with slicers for time periods, product categories, and geographical regions.
 
 Core KPIs including Total Revenue, Gross Profit, Number of Orders, and Average Order Value.
@@ -16,7 +16,7 @@ Customer Behaviour Analysis, including segmentation and retention.
 
 Geographical Sales Breakdown using map visualisations.
 
-📌 Report Pages (Indicative)
+# 📌 Report Pages (Indicative)
 Executive Summary
 
 Snapshot of key performance indicators
@@ -53,7 +53,7 @@ Filtering by day/week/month
 
 Seasonal trends and peak periods
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 Power BI Desktop
 
 Power Query Editor
